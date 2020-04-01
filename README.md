@@ -1,7 +1,7 @@
 # Curso Git e GitHub
 
 ## Esse repositório possui anotacões das aulas, etc..
-Olá, tudo bem? Esse é o meu repositório do curso de Git e GitHub. Fique a vontade de usá-lo!
+Olá, tudo bem? Esse é meu repositório dos arquivos sobre o Curso Git e GitHub foi pelo Curso em Vídeo. Fique a vontade de usá-lo!
 
 Esse curso é gratuito, feito pelo canal Curso em Vídeo.
 
